@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 3e3e1674f5b4a644cb9587469b9feba9
+timeCreated: 1528493815
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: running (2)_0
+    21300002: running (2)_1
+    21300004: running (2)_2
+    21300006: running (2)_3
+    21300008: running (2)_4
+    21300010: running (2)_5
+    21300012: running (2)_6
+    21300014: running (2)_7
+    21300016: running (2)_8
+    21300018: running (2)_9
+    21300020: running (2)_10
+    21300022: running (2)_11
+    21300024: running (2)_12
+    21300026: running (2)_13
+    21300028: running (2)_14
+    21300030: running (2)_15
+    21300032: running (2)_16
+    21300034: running (2)_17
+    21300036: running (2)_18
+    21300038: running (2)_19
+    21300040: running (2)_20
+    21300042: running (2)_21
+    21300044: running (2)_22
+    21300046: running (2)_23
+    21300048: running_0
+    21300050: running_1
+    21300052: running_2
+    21300054: running_3
+    21300056: running_4
+    21300058: running_5
+    21300060: running_6
+    21300062: running_7
+    21300064: running_8
+    21300066: running_9
+    21300068: running_10
+    21300070: running_11
+    21300072: running_12
+    21300074: running_13
+    21300076: running_14
+    21300078: running_15
+    21300080: running_16
+    21300082: running_17
+    21300084: running_18
+    21300086: running_19
+    21300088: running_20
+    21300090: running_21
+    21300092: running_22
+    21300094: running_23
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1398
+        width: 266
+        height: 321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1393
+        width: 235
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1392
+        width: 200
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_3
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1392
+        width: 163
+        height: 332
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_4
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1393
+        width: 129
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1050
+        width: 152
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1059
+        width: 188
+        height: 323
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1069
+        width: 204
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_8
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1078
+        width: 214
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_9
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1069
+        width: 228
+        height: 309
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 713
+        width: 250
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 709
+        width: 270
+        height: 319
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 708
+        width: 289
+        height: 319
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_13
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 701
+        width: 257
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_14
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 697
+        width: 215
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 349
+        width: 173
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 351
+        width: 152
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_17
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 355
+        width: 130
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_18
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 362
+        width: 127
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_19
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 369
+        width: 151
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 32
+        width: 173
+        height: 308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 23
+        width: 203
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_22
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 19
+        width: 225
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: running_23
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 13
+        width: 243
+        height: 321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

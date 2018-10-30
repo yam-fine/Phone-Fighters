@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf818cf2c6b0ce49ab04a211360548c, type: 3}
+  m_Name: Patrol_Shooter
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: a34ebd481410282429485f2286b3a2a1, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: ad0dcf73c2c08964eaf87605aee3055f, type: 2}
+    trueState: {fileID: 11400000, guid: 9c37f4c71f736da4fb49dfc7dc6063d2, type: 2}
+    falseState: {fileID: 11400000, guid: b6bcb0854a969e24c9c61d243659eae7, type: 2}
+  - decision: {fileID: 11400000, guid: 6872b5db86218164b91836f891f34e51, type: 2}
+    trueState: {fileID: 11400000, guid: 4cf217cf874d49a4daf8ae3d60c6509e, type: 2}
+    falseState: {fileID: 11400000}
+  sceneGizmoColor: {r: 0.959, g: 0.941, b: 0.009, a: 1}

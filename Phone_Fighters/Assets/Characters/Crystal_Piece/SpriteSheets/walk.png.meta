@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: afa1047ca01e5a24e92e0a645f3270c5
+timeCreated: 1532695178
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk - Copy_0
+    21300002: walk - Copy_1
+    21300004: walk - Copy_2
+    21300006: walk - Copy_3
+    21300008: walk - Copy_4
+    21300010: walk - Copy_5
+    21300012: walk - Copy_6
+    21300014: walk - Copy_7
+    21300016: walk - Copy_8
+    21300018: walk - Copy_9
+    21300020: walk - Copy_10
+    21300022: walk - Copy_11
+    21300024: walk - Copy_12
+    21300026: walk - Copy_13
+    21300028: walk - Copy_14
+    21300030: walk - Copy_15
+    21300032: walk - Copy_16
+    21300034: walk - Copy_17
+    21300036: walk - Copy_18
+    21300038: walk - Copy_19
+    21300040: walk - Copy_20
+    21300042: walk - Copy_21
+    21300044: walk - Copy_22
+    21300046: walk - Copy_23
+    21300048: walk - Copy_24
+    21300050: walk - Copy_25
+    21300052: walk - Copy_26
+    21300054: walk - Copy_27
+    21300056: walk - Copy_28
+    21300058: walk - Copy_29
+    21300060: walk - Copy_30
+    21300062: walk - Copy_31
+    21300064: walk - Copy_32
+    21300066: walk - Copy_33
+    21300068: walk - Copy_34
+    21300070: walk - Copy_35
+    21300072: walk - Copy_36
+    21300074: walk - Copy_37
+    21300076: walk - Copy_38
+    21300078: walk - Copy_39
+    21300080: walk - Copy_40
+    21300082: walk - Copy_41
+    21300084: walk - Copy_42
+    21300086: walk - Copy_43
+    21300088: walk - Copy_44
+    21300090: walk - Copy_45
+    21300092: walk - Copy_46
+    21300094: walk - Copy_47
+    21300096: walk - Copy_48
+    21300098: walk - Copy_49
+    21300100: walk - Copy_50
+    21300102: walk - Copy_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3240
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3240
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2700
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2700
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2700
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2160
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2160
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1620
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1620
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1620
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1080
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1080
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 540
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 540
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 540
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

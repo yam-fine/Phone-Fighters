@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 7fbe15002d917894fbe0e93b99f32f4d
+timeCreated: 1524244698
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: takingDmg_0
+    21300002: takingDmg_1
+    21300004: takingDmg_2
+    21300006: takingDmg_3
+    21300008: takingDmg_4
+    21300010: takingDmg_5
+    21300012: takingDmg_6
+    21300014: takingDmg_7
+    21300016: takingDmg_8
+    21300018: takingDmg_9
+    21300020: takingDmg_10
+    21300022: takingDmg_11
+    21300024: takingDmg_12
+    21300026: takingDmg_13
+    21300028: takingDmg_14
+    21300030: takingDmg_15
+    21300032: takingDmg_16
+    21300034: takingDmg_17
+    21300036: takingDmg_18
+    21300038: takingDmg_19
+    21300040: takingDmg_20
+    21300042: takingDmg_21
+    21300044: takingDmg_22
+    21300046: takingDmg_23
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: takingDmg_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2491
+        width: 381
+        height: 594
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2486
+        width: 313
+        height: 565
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2485
+        width: 325
+        height: 565
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_3
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 2482
+        width: 334
+        height: 571
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_4
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2482
+        width: 339
+        height: 573
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1863
+        width: 343
+        height: 576
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1861
+        width: 342
+        height: 579
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_7
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1860
+        width: 338
+        height: 580
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_8
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1860
+        width: 335
+        height: 580
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_9
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1858
+        width: 328
+        height: 580
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1241
+        width: 328
+        height: 581
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1241
+        width: 331
+        height: 582
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_12
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1242
+        width: 334
+        height: 584
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_13
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1242
+        width: 338
+        height: 587
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_14
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1243
+        width: 340
+        height: 588
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 627
+        width: 342
+        height: 589
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 627
+        width: 345
+        height: 591
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 629
+        width: 347
+        height: 592
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_18
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 630
+        width: 349
+        height: 592
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_19
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 631
+        width: 351
+        height: 594
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 353
+        height: 593
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 17
+        width: 355
+        height: 595
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_22
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 19
+        width: 354
+        height: 595
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takingDmg_23
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 20
+        width: 364
+        height: 595
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

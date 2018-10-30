@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 34bb88638204d0f44b9dfea249a90aa8
+timeCreated: 1528493829
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stopping 1_0
+    21300002: stopping 1_1
+    21300004: stopping 1_2
+    21300006: stopping 1_3
+    21300008: stopping 1_4
+    21300010: stopping 1_5
+    21300012: stopping 1_6
+    21300014: stopping 1_7
+    21300016: stopping 1_8
+    21300018: stopping 1_9
+    21300020: stopping 1_10
+    21300022: stopping 1_11
+    21300024: stopping 1_12
+    21300026: stopping 1_13
+    21300028: stopping 1_14
+    21300030: stopping 1_15
+    21300032: stopping 1_16
+    21300034: stopping 1_17
+    21300036: stopping_0
+    21300038: stopping_1
+    21300040: stopping_2
+    21300042: stopping_3
+    21300044: stopping_4
+    21300046: stopping_5
+    21300048: stopping_6
+    21300050: stopping_7
+    21300052: stopping_8
+    21300054: stopping_9
+    21300056: stopping_10
+    21300058: stopping_11
+    21300060: stopping_12
+    21300062: stopping_13
+    21300064: stopping_14
+    21300066: stopping_15
+    21300068: stopping_16
+    21300070: stopping_17
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stopping_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1382
+        width: 176
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1384
+        width: 179
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1384
+        width: 184
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1385
+        width: 187
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1040
+        width: 191
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1042
+        width: 194
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1042
+        width: 198
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1043
+        width: 201
+        height: 322
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 699
+        width: 204
+        height: 321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 699
+        width: 207
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 699
+        width: 202
+        height: 321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 696
+        width: 196
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 190
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 352
+        width: 183
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 348
+        width: 175
+        height: 335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 346
+        width: 167
+        height: 338
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 159
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stopping_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 151
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

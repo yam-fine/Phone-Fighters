@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf818cf2c6b0ce49ab04a211360548c, type: 3}
+  m_Name: Idle_Shooter
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: fcddee7ea5a7f8f429d0b6c02cff51e8, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 6872b5db86218164b91836f891f34e51, type: 2}
+    trueState: {fileID: 11400000, guid: b6bcb0854a969e24c9c61d243659eae7, type: 2}
+    falseState: {fileID: 11400000, guid: a1ee0faf54bc46b4d875c0019f45e247, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 04afcd9495fc399419ecc8b03529f8e0
+timeCreated: 1533497875
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rocket_punch_final_0
+    21300002: rocket_punch_final_1
+    21300004: rocket_punch_final_2
+    21300006: rocket_punch_final_3
+    21300008: rocket_punch_final_4
+    21300010: rocket_punch_final_5
+    21300012: rocket_punch_final_6
+    21300014: rocket_punch_final_7
+    21300016: rocket_punch_final_8
+    21300018: rocket_punch_final_9
+    21300020: rocket_punch_final_10
+    21300022: rocket_punch_final_11
+    21300024: rocket_punch_final_12
+    21300026: rocket_punch_final_13
+    21300028: rocket_punch_final_14
+    21300030: rocket_punch_final_15
+    21300032: rocket_punch_final_16
+    21300034: rocket_punch_final_17
+    21300036: rocket_punch_final_18
+    21300038: rocket_punch_final_19
+    21300040: rocket_punch_final_20
+    21300042: rocket_punch_final_21
+    21300044: rocket_punch_final_22
+    21300046: rocket_punch_final_23
+    21300048: rocket_punch_final_24
+    21300050: rocket_punch_final_25
+    21300052: rocket_punch_final_26
+    21300054: rocket_punch_final_27
+    21300056: rocket_punch_final_28
+    21300058: rocket_punch_final_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rocket_punch_final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2485
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2485
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_2
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2485
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_3
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2485
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2130
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2130
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_6
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2130
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_7
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2130
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1775
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1775
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_10
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1775
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_11
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1775
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1420
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1420
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1420
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_15
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1420
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1065
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_18
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1065
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_19
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1065
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 710
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 710
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_23
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 710
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 355
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_26
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 355
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_27
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 355
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rocket_punch_final_29
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 469
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

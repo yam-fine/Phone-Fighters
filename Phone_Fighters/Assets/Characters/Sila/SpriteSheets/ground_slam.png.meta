@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: dfcb2cd02c6041d4ebc36c1af025bbe9
+timeCreated: 1528493509
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ground_slam_0
+    21300002: ground_slam_1
+    21300004: ground_slam_2
+    21300006: ground_slam_3
+    21300008: ground_slam_4
+    21300010: ground_slam_5
+    21300012: ground_slam_6
+    21300014: ground_slam_7
+    21300016: ground_slam_8
+    21300018: ground_slam_9
+    21300020: ground_slam_10
+    21300022: ground_slam_11
+    21300024: ground_slam_12
+    21300026: ground_slam_13
+    21300028: ground_slam_14
+    21300030: ground_slam_15
+    21300032: ground_slam_16
+    21300034: ground_slam_17
+    21300036: ground_slam_18
+    21300038: ground_slam_19
+    21300040: ground_slam_20
+    21300042: ground_slam_21
+    21300044: ground_slam_22
+    21300046: ground_slam_23
+    21300048: ground_slam_24
+    21300050: ground_slam_25
+    21300052: ground_slam_26
+    21300054: ground_slam_27
+    21300056: ground_slam_28
+    21300058: ground_slam_29
+    21300060: ground_slam_30
+    21300062: ground_slam_31
+    21300064: ground_slam_32
+    21300066: ground_slam_33
+    21300068: ground_slam_34
+    21300070: ground_slam_35
+    21300072: ground_slam_36
+    21300074: ground_slam_37
+    21300076: ground_slam_38
+    21300078: ground_slam_39
+    21300080: ground_slam_40
+    21300082: ground_slam_41
+    21300084: ground_slam_42
+    21300086: ground_slam_43
+    21300088: ground_slam_44
+    21300090: ground_slam_45
+    21300092: ground_slam_46
+    21300094: ground_slam_47
+    21300096: ground_slam_48
+    21300098: ground_slam_49
+    21300100: ground_slam_50
+    21300102: ground_slam_51
+    21300104: ground_slam_52
+    21300106: ground_slam_53
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground_slam_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4634
+        width: 158
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 4634
+        width: 161
+        height: 339
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_2
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 4634
+        width: 163
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_3
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 4636
+        width: 170
+        height: 332
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_4
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 4639
+        width: 173
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4178
+        width: 178
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4174
+        width: 184
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 4171
+        width: 190
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_8
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 4169
+        width: 201
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 4166
+        width: 210
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3705
+        width: 215
+        height: 322
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3705
+        width: 218
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3705
+        width: 219
+        height: 309
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_13
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3705
+        width: 220
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_14
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 3705
+        width: 220
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3243
+        width: 223
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3243
+        width: 222
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_17
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3243
+        width: 223
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_18
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 3243
+        width: 222
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_19
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3235
+        width: 195
+        height: 307
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2779
+        width: 166
+        height: 307
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2789
+        width: 148
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_22
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2797
+        width: 149
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_23
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2794
+        width: 156
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_24
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2787
+        width: 173
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2324
+        width: 183
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2326
+        width: 190
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_27
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2336
+        width: 212
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_28
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2336
+        width: 276
+        height: 383
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_29
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2329
+        width: 239
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1863
+        width: 231
+        height: 365
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1858
+        width: 212
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_32
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1857
+        width: 217
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_33
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1856
+        width: 204
+        height: 322
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_34
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1858
+        width: 207
+        height: 308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1400
+        width: 213
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_36
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1400
+        width: 231
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_37
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1398
+        width: 246
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_38
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1398
+        width: 260
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1399
+        width: 272
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 937
+        width: 272
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_41
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 937
+        width: 271
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_42
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 937
+        width: 269
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_43
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 937
+        width: 272
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_44
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 937
+        width: 267
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 477
+        width: 257
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 479
+        width: 251
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_47
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 482
+        width: 245
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_48
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 484
+        width: 240
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_49
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 487
+        width: 230
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 26
+        width: 220
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 28
+        width: 196
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_52
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 28
+        width: 181
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground_slam_53
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 29
+        width: 170
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

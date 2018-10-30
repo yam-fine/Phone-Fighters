@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 7b71b251ba24f0945a45f0294be344fa
+timeCreated: 1528493821
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smash_attack_0
+    21300002: smash_attack_1
+    21300004: smash_attack_2
+    21300006: smash_attack_3
+    21300008: smash_attack_4
+    21300010: smash_attack_5
+    21300012: smash_attack_6
+    21300014: smash_attack_7
+    21300016: smash_attack_8
+    21300018: smash_attack_9
+    21300020: smash_attack_10
+    21300022: smash_attack_11
+    21300024: smash_attack_12
+    21300026: smash_attack_13
+    21300028: smash_attack_14
+    21300030: smash_attack_15
+    21300032: smash_attack_16
+    21300034: smash_attack_17
+    21300036: smash_attack_18
+    21300038: smash_attack_19
+    21300040: smash_attack_20
+    21300042: smash_attack_21
+    21300044: smash_attack_22
+    21300046: smash_attack_23
+    21300048: smash_attack_24
+    21300050: smash_attack_25
+    21300052: smash_attack_26
+    21300054: smash_attack_27
+    21300056: smash_attack_28
+    21300058: smash_attack_29
+    21300060: smash_attack_30
+    21300062: smash_attack_31
+    21300064: smash_attack_32
+    21300066: smash_attack_33
+    21300068: smash_attack_34
+    21300070: smash_attack_35
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smash_attack_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2540
+        width: 153
+        height: 343
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2538
+        width: 156
+        height: 339
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2536
+        width: 159
+        height: 332
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2535
+        width: 161
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2535
+        width: 165
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2173
+        width: 170
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2173
+        width: 172
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2174
+        width: 176
+        height: 281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2174
+        width: 168
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2177
+        width: 155
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1819
+        width: 148
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1827
+        width: 168
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1836
+        width: 166
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_13
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1848
+        width: 149
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1861
+        width: 129
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1513
+        width: 122
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1508
+        width: 140
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1493
+        width: 198
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_18
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1476
+        width: 258
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1462
+        width: 287
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1093
+        width: 290
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1093
+        width: 288
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1093
+        width: 290
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_23
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1093
+        width: 289
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_24
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1093
+        width: 289
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 729
+        width: 283
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 731
+        width: 263
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 733
+        width: 242
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_28
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 735
+        width: 219
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_29
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 736
+        width: 193
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 374
+        width: 172
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 376
+        width: 169
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 371
+        width: 171
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_33
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 367
+        width: 167
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_34
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 366
+        width: 162
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smash_attack_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 156
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

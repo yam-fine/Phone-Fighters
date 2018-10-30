@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - DmgSource
+  - EnemyDmgSource
+  - Spawner
+  - UI
+  - team1
+  - team2
+  - NetworkManager
+  - Level
+  - MusicBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Player
+  - Enemy
+  - Sight
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 86344509
+    locked: 0
+  - name: Main Sprites
+    uniqueID: 4193292345
+    locked: 0

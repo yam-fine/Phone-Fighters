@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: f8bc35b0f22aab846857de3615efb82f
+timeCreated: 1528493470
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: reworked_attack_1 (1)_0
+    21300002: reworked_attack_1 (1)_1
+    21300004: reworked_attack_1 (1)_2
+    21300006: reworked_attack_1 (1)_3
+    21300008: reworked_attack_1 (1)_4
+    21300010: reworked_attack_1 (1)_5
+    21300012: reworked_attack_1 (1)_6
+    21300014: reworked_attack_1 (1)_7
+    21300016: reworked_attack_1 (1)_8
+    21300018: reworked_attack_1 (1)_9
+    21300020: reworked_attack_1 (1)_10
+    21300022: reworked_attack_1 (1)_11
+    21300024: reworked_attack_1 (1)_12
+    21300026: reworked_attack_1 (1)_13
+    21300028: reworked_attack_1 (1)_14
+    21300030: reworked_attack_1 (1)_15
+    21300032: reworked_attack_1 (1)_16
+    21300034: reworked_attack_1 (1)_17
+    21300036: basic_attack1_0
+    21300038: basic_attack1_1
+    21300040: basic_attack1_2
+    21300042: basic_attack1_3
+    21300044: basic_attack1_4
+    21300046: basic_attack1_5
+    21300048: basic_attack1_6
+    21300050: basic_attack1_7
+    21300052: basic_attack1_8
+    21300054: basic_attack1_9
+    21300056: basic_attack1_10
+    21300058: basic_attack1_11
+    21300060: basic_attack1_12
+    21300062: basic_attack1_13
+    21300064: basic_attack1_14
+    21300066: basic_attack1_15
+    21300068: basic_attack1_16
+    21300070: basic_attack1_17
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic_attack1_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1375
+        width: 156
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1373
+        width: 157
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1374
+        width: 167
+        height: 338
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1374
+        width: 211
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1031
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1031
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1031
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1031
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 688
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 688
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 688
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 688
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 345
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 345
+        width: 229
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 345
+        width: 229
+        height: 335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 345
+        width: 219
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 202
+        height: 338
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: basic_attack1_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 181
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

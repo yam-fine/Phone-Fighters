@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf818cf2c6b0ce49ab04a211360548c, type: 3}
+  m_Name: Idle_Melee
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: fcddee7ea5a7f8f429d0b6c02cff51e8, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 75d6bf1efab1cfa49a0a9a04916718f1, type: 2}
+    trueState: {fileID: 11400000, guid: b6bcb0854a969e24c9c61d243659eae7, type: 2}
+    falseState: {fileID: 11400000, guid: 4089a2eca8852fd48b4a73f053750500, type: 2}
+  sceneGizmoColor: {r: 0.2884202, g: 0.07136679, b: 0.9705882, a: 1}
