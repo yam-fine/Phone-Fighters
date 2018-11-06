@@ -3,6 +3,12 @@ Little-Fighter like game with pvp mechanics
 
 <h3>Highlights</h3>
 
+<b>Gameplay footage</b> of first level
+<img src="Images/gameplay.gif" width="400" height="220" />
+
+
+<img src="loading_effect.gif" />
+
 <b>Progression</b> is based on highest room complete, with rooms gradually becoming harder as you progress
 <img src="Images/level_select.png" width="384" height="216" />
 
